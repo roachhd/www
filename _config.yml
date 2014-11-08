@@ -7,16 +7,16 @@ permalink:        pretty
 
 # Setup
 title:            Poole
-tagline:          'The Jekyll Butler.'
+tagline:          'The Jekylls Butler.'
 description:      'A diligent and noble steward for building Jekyll sites.'
-url:              http://getpoole.com
+url:              http://roachhd.github.io/www
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Katie Ball'
+  url:            https://twitter.com/mektball
 
 paginate:         5
 
 # Custom vars
 github:
-  repo:           https://github.com/poole/www
+  repo:           https://github.com/roachhd/www
